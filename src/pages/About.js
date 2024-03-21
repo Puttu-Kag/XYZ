@@ -56,6 +56,7 @@ const About = () => {
           tempore voluptatibus perferendis esse eaque temporibus porro?
           Aspernatur beatae deleniti illo autem!
         </p>
+        <p>IT's a restaurent Website</p>
       </Box>
     </Layout>
   );
